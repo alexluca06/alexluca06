@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, security and operating systems(a Linux lover)
 - 🌱 I’m currently learning: Full Stack-Development(JavaScript, Node.js, SQL, Bootstrap, React)
 - 💞️ I’m looking to collaborate on open-source projects
-- 📫 How to reach me: lucaalexandru@yahoo.com
+- 📫 How to reach me: lucaalexandru06@yahoo.com
 
 <!---
 alexluca06/alexluca06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
